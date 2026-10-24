@@ -1,4 +1,4 @@
-<h1 align="left">Carlos Miguel Webber 👋</h1>
+<h1 align="left">Carlos Miguel</h1>
 
 ###
 
@@ -23,9 +23,9 @@
 ###
 
 - **[EnerTracker](https://cakowebber.dev/)** · ESP32 + NestJS real-time energy monitoring (thesis)
-- **[Engenho](https://cakowebber.dev/)** · browser game in Three.js / WebGL 2
+- **[Engenho](https://engenho.cakowebber.dev/)** · browser game in Three.js / WebGL 2
 - **[MSApp](https://msapp.cakowebber.dev)** · digital guide to Morrinhos do Sul (NestJS, Next.js, Prisma)
-- **[Central de Compras](https://github.com/cakowebber/central-compras-web)** · B2B platform (Next.js, Express, PostgreSQL)
+- **[Central de Compras](https://central-compras.vercel.app/)** · B2B platform (Next.js, Express, PostgreSQL)
 - **[Cartwise](https://github.com/cakowebber/cartwise)** · recommendation system with five heuristics (NestJS)
 
 More at [cakowebber.dev](https://cakowebber.dev/).

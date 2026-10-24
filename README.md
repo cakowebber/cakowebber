@@ -1,8 +1,8 @@
-<h1 align="left">Carlos Miguel 👋</h1>
+<h1 align="left">Carlos Miguel Webber 👋</h1>
 
 ###
 
-<p align="left">Backend Developer · Brazil 🇧🇷</p>
+<p align="left">Backend Developer · Criciúma, Brazil 🇧🇷<br><i>I build what runs behind the screens.</i></p>
 
 ###
 
@@ -11,16 +11,31 @@
 ###
 
 <p align="left">
-  Backend Developer at La Moda, working with integrations, RESTful APIs and scalable web applications.<br>
-  CS Student at UNESC, currently developing my undergraduate thesis: a real-time energy monitoring system using ESP32 and NestJS.<br>
-  Focused on backend architecture, TDD and cloud infrastructure.
+  Backend Developer at La Moda, building APIs, queues and integrations between systems that can't stop, like SAP and marketplaces (Mercado Livre, Dafiti, Netshoes, Privalia), with NestJS, RabbitMQ and Kubernetes on AWS.<br>
+  CS Student at UNESC, developing my undergraduate thesis: EnerTracker, a real-time energy monitoring system with ESP32 and NestJS.<br>
+  In my spare time, I make games that run in the browser.
 </p>
+
+###
+
+<h2 align="left">Featured projects</h2>
+
+###
+
+- **[EnerTracker](https://cakowebber.dev/)** · ESP32 + NestJS real-time energy monitoring (thesis)
+- **[Engenho](https://cakowebber.dev/)** · browser game in Three.js / WebGL 2
+- **[MSApp](https://msapp.cakowebber.dev)** · digital guide to Morrinhos do Sul (NestJS, Next.js, Prisma)
+- **[Central de Compras](https://github.com/cakowebber/central-compras-web)** · B2B platform (Next.js, Express, PostgreSQL)
+- **[Cartwise](https://github.com/cakowebber/cartwise)** · recommendation system with five heuristics (NestJS)
+
+More at [cakowebber.dev](https://cakowebber.dev/).
 
 ###
 
 <div>
   <a href="https://www.linkedin.com/in/cakowebber/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://cakowebber.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:contato@cakowebber.dev"><img src="https://img.shields.io/badge/Email-contato@cakowebber.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ###
@@ -99,9 +114,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ckzwebber/ckzwebber/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ckzwebber/ckzwebber/output/pacman-contribution-graph.svg">
-  <img alt="Pacman" src="https://raw.githubusercontent.com/ckzwebber/ckzwebber/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cakowebber/cakowebber/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cakowebber/cakowebber/output/pacman-contribution-graph.svg">
+  <img alt="Pacman" src="https://raw.githubusercontent.com/cakowebber/cakowebber/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
